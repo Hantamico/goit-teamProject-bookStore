@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Hantamico.github.io/goit-teamProject-bookStore",
+  "homepage": "https://Hantamico.github.io/goit-teamProject-bookStore/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-teamProject-bookStore/"
